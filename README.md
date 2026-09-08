@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-I work on synthetic data generation, post training, and benchmarking. I also won the [world's largest collegiate hackathon](https://devpost.com/software/facetime-macos-ai-agent).
+I work on omni post training and synthetic RL environments at NVIDIA. I also won the [world's largest collegiate hackathon](https://devpost.com/software/facetime-macos-ai-agent).
 
 [Blog](https://blog.dylanlu.com) | [Resume](https://flowcv.com/resume/wvn6su5ue1)
 
